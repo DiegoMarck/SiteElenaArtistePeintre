@@ -1,0 +1,10 @@
+entête du site
+
+#header {
+    background-color: #1d84c3;
+    background-image: -webkit-linear-gradient(top,#acff8d 0%,#1d84c3 100%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 115%;
+    background-image: url(https://www.cdiscount.com/pdt2/1/6/6/1/700x700/auc6915671121166/rw/tableau-peinture-huile-la-rue-sous-la-pluie-toile.jpg);
+}
