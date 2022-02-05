@@ -4,4 +4,4 @@ if (isset($GLOBALS['request']) and
 '/subdirectory/index.php' === $GLOBALS['request']->server->get('SCRIPT_NAME')) {
 $GLOBALS['request']->server->set('SCRIPT_NAME', '/index.php');
 }
-est rajouté dans les 2 fichier settings.php tentative pour résoudre l'erreur : redirect to rout...
+est rajouté dans les 2 fichier settings.php tentative pour résoudre l'erreur : Redirects to external URLs are not allowed by default, use \Drupal\Core\Routing\TrustedRedirectResponse for it.
